@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Stock Website"
-date: 2012-05-23
+date: 2017-07-25
 excerpt: "Look up current statistics on any stock"
-tags: [sample post, readability, test, image, feature]
+tags: [stocks, SMA, price]
 project: true
 comments: false
 ---

@@ -3,7 +3,6 @@ layout: post
 title: "Stock Website"
 date: 2017-07-25
 excerpt: "Look up current statistics on any stock"
-tags: [stocks, SMA, price]
 project: true
 comments: false
 ---

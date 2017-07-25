@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Post with Image Feature"
+title: "Stock Website"
 date: 2012-05-23
-excerpt: "A ton of text to test readability with image feature."
+excerpt: "Look up current statistics on any stock"
 tags: [sample post, readability, test, image, feature]
 project: true
-feature: http://i.imgur.com/Ds6S7lJ.png
-comments: true
+comments: false
 ---
 
 ## Stocks Website ##

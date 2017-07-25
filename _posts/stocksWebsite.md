@@ -1,12 +1,16 @@
 ---
 layout: post
-title:  "Stocks Website"
-date:   2017-07-25
-excerpt: "Learn about the current prices of any stock"
+title:  "Stock Website"
+date:   2016-04-06
+excerpt: "Find current information on stocks"
 project: true
 tag:
--stocks
-comments: false
+- jekyll 
+- moon
+- blog
+- about
+- theme
+comments: true
 ---
 
 ## Stocks Website ##

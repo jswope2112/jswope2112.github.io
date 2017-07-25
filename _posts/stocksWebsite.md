@@ -3,7 +3,7 @@ layout: post
 title:  "Stock Website"
 date:   2016-04-06
 excerpt: "Find current information on stocks"
-project: true
+project: false
 tag:
 - jekyll 
 - moon

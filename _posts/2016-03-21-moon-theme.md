@@ -5,11 +5,6 @@ date:   2017-07-25
 excerpt: "Learn about the current prices of any stock"
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
 comments: false
 ---
 

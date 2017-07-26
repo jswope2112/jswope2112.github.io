@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Freshman Activites Board"
-date: 2017-07-25
+date: 2017-06-25
 excerpt: "Team Member"
 comments: false
 ---

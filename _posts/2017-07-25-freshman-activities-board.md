@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Testing Readability with a Bunch of Text"
-date: 2012-05-22
-excerpt: "A ton of text to test readability."
-tags: [sample post, readability, test]
-comments: true
+title: "Freshman Activites Board"
+date: 2017-07-25
+excerpt: "Team Member"
+comments: false
 ---
 
 ## Freshman Activities Board ##

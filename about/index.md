@@ -7,12 +7,10 @@ published: true
 ---
     
 
-Hi! My name is Jason Swope. I am a computer science major at the Georgia Institute of Technology. I am from Norcross Georgia and currently involved in research with Jim Rehg about human-computer interactions.
- 
-My best language is java, but I am also fluent in python, MATLAB, HTML and CSS. I have experience working with APIs, as shown in my project, and am learning about machine learning within my lab.
- 
-My experience includes participating in the Grand Challenges Living Learning Community at Georgia Tech last year. Here I worked with a group of 5 other students to create a more efficient method to objectively diagnose concussions so that we can more accurately assess when they happen and get athletes the help they need. The resulting plan was to look into radar technology to measure the gait of people as they walk and use that data to infer whether or not they are impaired.
+Hi! My name is Jason Swope. I am a computer science major at the Georgia Institute of Technology. I am from Norcross Georgia and just finished an internship with Amazon. I worked on the internal accounts team for Amazon Web Services and created a chat bot to assist Amazon staff with managing internal accounts. More specifically I created a text preprocessing framework that formatted the intents for the bot utilizing regex and integrated account specific functionality such as finding additional account information. Also, I created automated tests for internal software packages using Mockito and JUnit and achieved 82% coverage for the targeted package.
 
-I am curently at Georgia Tech's Computational Perception Laboratory where I am working on utilizing computer vision to diagnose children with autism based on video. My role is to automate the process of annotating the videos of the children so that we do not need to have staff go in and mark when the chilid holds the toy and does not.
+In addition to my internship, I also participated in an Amazon Hackathon over the summer. I created an Alexa skill to help the nonprofit Code.org. The skill located the closest school that teaches computer science around a given zip code and filtered based on parameters such as grade level, coding language, and cost.
+  
+I am curently at Georgia Tech's Computational Perception Laboratory where I am working on utilizing computer vision to diagnose children with autism based on video. We have recently finished extracting the body points and are now working on identifying when a child is perfomring certain actions. My role is to use a neural network to determine when a child is pointing.
 
-In addition to classes I am involved with Outdoor Recreation at Georgia Tech. I am currently and instructor in training and am learning on how to lead backpacking expeditions with beginners.
+My best language is java, but I am also fluent in python, C, assembly, HTML, CSS, and MATLAB. I have experience working with computer vision, natural language processing, and machine learning.
